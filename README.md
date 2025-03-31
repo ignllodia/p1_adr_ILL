@@ -45,21 +45,17 @@ ros2_ws
 
 1. **Source the workspace**:
    ```bash
-   source ~/ros2_ws/install/setup.bash
+   source ~/ros2_ws/install/setup.zhs
    ```
 2. **Run the publisher**:
    ```bash
-   ros2 run drone_position_communication publisher
+   ros2 run drone_position_communication publisher.py
    ```
 3. **Run the subscriber**:
    ```bash
-   ros2 run drone_position_communication subscriber
+   ros2 run drone_position_communication subscriber.py
    ```
 
 ## Usage
 
 The publisher will start sending `NavSatFix` messages containing the drone's position, while the subscriber will listen for these messages and process them accordingly.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.

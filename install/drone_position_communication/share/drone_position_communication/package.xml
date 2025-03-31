@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>drone_position_communication</name>
+  <version>0.0.0</version>
+  <description>A ROS2 package for drone position communication</description>
+  <maintainer email="your_email@example.com">your_name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

@@ -1,0 +1,9 @@
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/uninstall.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/drone_position_communication_uninstall.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/test.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/edit_cache.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/rebuild_cache.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/list_install_components.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/install.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/install/local.dir
+/home/student/AdR/ros2_ws/build/drone_position_communication/CMakeFiles/install/strip.dir

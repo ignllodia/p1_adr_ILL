@@ -1,0 +1,17 @@
+/home/student/AdR/ros2_ws/install/drone_position_communication/lib/drone_position_communication/publisher.py
+/home/student/AdR/ros2_ws/install/drone_position_communication/lib/drone_position_communication/subscriber.py
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/ament_index/resource_index/package_run_dependencies/drone_position_communication
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/ament_index/resource_index/parent_prefix_path/drone_position_communication
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/environment/ament_prefix_path.sh
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/environment/ament_prefix_path.dsv
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/environment/path.sh
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/environment/path.dsv
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/local_setup.bash
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/local_setup.sh
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/local_setup.zsh
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/local_setup.dsv
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/package.dsv
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/ament_index/resource_index/packages/drone_position_communication
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/cmake/drone_position_communicationConfig.cmake
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/cmake/drone_position_communicationConfig-version.cmake
+/home/student/AdR/ros2_ws/install/drone_position_communication/share/drone_position_communication/package.xml

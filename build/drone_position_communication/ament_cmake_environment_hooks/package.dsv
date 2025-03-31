@@ -1,0 +1,4 @@
+source;share/drone_position_communication/local_setup.bash
+source;share/drone_position_communication/local_setup.dsv
+source;share/drone_position_communication/local_setup.sh
+source;share/drone_position_communication/local_setup.zsh

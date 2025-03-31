@@ -1,0 +1,9 @@
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/uninstall.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/number_square_service_uninstall.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/test.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/edit_cache.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/rebuild_cache.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/list_install_components.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/install.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/install/local.dir
+/home/student/AdR/ros2_ws/build/number_square_service/CMakeFiles/install/strip.dir
